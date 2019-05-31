@@ -1,5 +1,7 @@
 I woke up
 I went to school
+I ate breakfast at school
 I went home
 I did homework
+I ate dinner
 I went to sleep
